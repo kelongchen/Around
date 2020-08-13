@@ -1,5 +1,6 @@
 ## AroundWeb: A Cloud and React based Social Network
 ### Demo: 
+![https://github.com/kelongchen/AroundWeb/around_demo.gif]
 ### Frontend:
 - Designed and implemented a geo-based social network web application with React JS. 
 - Implemented features for users to create and browse posts and support search nearby posts (Ant Design, GeoLocation API and Google Map API.)
