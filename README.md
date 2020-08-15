@@ -10,7 +10,8 @@
   - Google Map API
 ### Demo: 
 ![image](https://github.com/kelongchen/AroundWeb/blob/master/around_demo.gif)
- website: https://test.dctokh1vvshzf.amplifyapp.com/
+### website: https://socialdev.d2a3g8v0hq7xmz.amplifyapp.com/
+
 ***
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
