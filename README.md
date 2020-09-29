@@ -1,13 +1,14 @@
-## Around: A Cloud and React based Social Network
-- Designed and implemented a geo-based social network web application with React JS. 
-- Implemented features for users to create and browse posts and support search nearby posts (Ant Design, GeoLocation API and Google Map API.)
-- Improved the authentication using token based registration/login/logout flow with React Router v4 and server-side user authentication with JWT. 
-####  `Relevant technical skills and APIs:`
-  - React JS
-  - Ant Design
-  - react router
-  - react-grid-gallery
-  - Google Map API
+## Around: ReactJS/Golang/GCS based Social Network
+
+- Developed the frontend with ReactJS/Redux and used webpack as module bundler
+- Implemented features for users to create and browse posts and support searching nearby posts (Ant Design, GeoLocation API and Google Map API); used Google Cloud Storage to store media data
+- Implemented token-based authentication with JWT; integrated React Router v4 for routing
+- Launched a scalable web server in Go to handle posts and deployed to Google Kubernetes Engine.
+- Used Elasticsearch to provide geo-location based search, deployed to Google Cloud Engine/Ubuntu
+- Used Google Vision API for face detection, integrated with Elasticsearch and Go service
+- Built and published a Docker image to DockerHub for backend service, and deployed it to GKE
+- Implemented a CI/CD pipeline by using CircleCI and deployed application to Google App Engine
+
 ### Demo: 
 ![image](https://github.com/kelongchen/AroundWeb/blob/master/around_demo.gif)
 ### website: https://socialdev.d2a3g8v0hq7xmz.amplifyapp.com/
