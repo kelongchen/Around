@@ -11,7 +11,7 @@
 
 ### Demo: 
 ![image](https://github.com/kelongchen/AroundWeb/blob/master/around_demo.gif)
-### website: https://socialdev.d2a3g8v0hq7xmz.amplifyapp.com/
+
 
 ***
 
